@@ -1,0 +1,1554 @@
+{
+    "apiVersion": "1.1",
+    "confidence": 0.9231,
+    "metadata": {
+        "pages": [
+            {
+                "height": 2532,
+                "page": 1,
+                "width": 1170
+            }
+        ]
+    },
+    "mimeType": "multipart/form-data",
+    "modelVersion": "ocr-2.2.1",
+    "numBilledPages": 1,
+    "pages": [
+        {
+            "confidence": 0.9231,
+            "height": 2532,
+            "id": 0,
+            "text": "bbcl \n+56 9 9200 7888 \nWhatsapp Comercial \nALIANZAS BBCL \nInternacional \nD W E F E: \nFRANCE \nPERFIL 24 europa press \nRPP NOTICIAS laRaz\ufffdn EL 54 MUNDO \nNacional \nEspecializados \nTRAFICO VALIDO \nContenidos bajo licencia Creative Commons \n\u00b7 \n\u00b7 \n(CC-BY-NC) salvo donde indique lo contrario. MEDIO \nAUDITADO \u25cfchie \niab \n Basado en Sistema WordPress. \nDesarrollado por Bio Bio Comunicaciones 2025 \nConcepci\ufffdn - Chile",
+            "width": 1170,
+            "words": [
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 131,
+                                "y": 50
+                            },
+                            {
+                                "x": 254,
+                                "y": 50
+                            },
+                            {
+                                "x": 254,
+                                "y": 102
+                            },
+                            {
+                                "x": 131,
+                                "y": 102
+                            }
+                        ]
+                    },
+                    "confidence": 0.984,
+                    "id": 0,
+                    "text": "bbcl"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 190,
+                                "y": 374
+                            },
+                            {
+                                "x": 273,
+                                "y": 374
+                            },
+                            {
+                                "x": 273,
+                                "y": 412
+                            },
+                            {
+                                "x": 190,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    "confidence": 0.9976,
+                    "id": 1,
+                    "text": "+56"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 283,
+                                "y": 375
+                            },
+                            {
+                                "x": 309,
+                                "y": 375
+                            },
+                            {
+                                "x": 309,
+                                "y": 412
+                            },
+                            {
+                                "x": 283,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    "confidence": 0.9852,
+                    "id": 2,
+                    "text": "9"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 320,
+                                "y": 375
+                            },
+                            {
+                                "x": 430,
+                                "y": 375
+                            },
+                            {
+                                "x": 430,
+                                "y": 413
+                            },
+                            {
+                                "x": 320,
+                                "y": 413
+                            }
+                        ]
+                    },
+                    "confidence": 0.9976,
+                    "id": 3,
+                    "text": "9200"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 439,
+                                "y": 374
+                            },
+                            {
+                                "x": 551,
+                                "y": 374
+                            },
+                            {
+                                "x": 551,
+                                "y": 413
+                            },
+                            {
+                                "x": 439,
+                                "y": 413
+                            }
+                        ]
+                    },
+                    "confidence": 0.9988,
+                    "id": 4,
+                    "text": "7888"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 189,
+                                "y": 626
+                            },
+                            {
+                                "x": 405,
+                                "y": 626
+                            },
+                            {
+                                "x": 405,
+                                "y": 672
+                            },
+                            {
+                                "x": 189,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    "confidence": 0.9924,
+                    "id": 5,
+                    "text": "Whatsapp"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 415,
+                                "y": 626
+                            },
+                            {
+                                "x": 629,
+                                "y": 625
+                            },
+                            {
+                                "x": 629,
+                                "y": 665
+                            },
+                            {
+                                "x": 415,
+                                "y": 666
+                            }
+                        ]
+                    },
+                    "confidence": 0.9923,
+                    "id": 6,
+                    "text": "Comercial"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 71,
+                                "y": 820
+                            },
+                            {
+                                "x": 273,
+                                "y": 820
+                            },
+                            {
+                                "x": 273,
+                                "y": 857
+                            },
+                            {
+                                "x": 71,
+                                "y": 857
+                            }
+                        ]
+                    },
+                    "confidence": 0.9979,
+                    "id": 7,
+                    "text": "ALIANZAS"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 282,
+                                "y": 821
+                            },
+                            {
+                                "x": 387,
+                                "y": 821
+                            },
+                            {
+                                "x": 387,
+                                "y": 856
+                            },
+                            {
+                                "x": 282,
+                                "y": 856
+                            }
+                        ]
+                    },
+                    "confidence": 0.9959,
+                    "id": 8,
+                    "text": "BBCL"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 71,
+                                "y": 922
+                            },
+                            {
+                                "x": 352,
+                                "y": 922
+                            },
+                            {
+                                "x": 352,
+                                "y": 962
+                            },
+                            {
+                                "x": 71,
+                                "y": 962
+                            }
+                        ]
+                    },
+                    "confidence": 0.987,
+                    "id": 9,
+                    "text": "Internacional"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 161,
+                                "y": 1091
+                            },
+                            {
+                                "x": 203,
+                                "y": 1092
+                            },
+                            {
+                                "x": 202,
+                                "y": 1130
+                            },
+                            {
+                                "x": 160,
+                                "y": 1129
+                            }
+                        ]
+                    },
+                    "confidence": 0.9941,
+                    "id": 10,
+                    "text": "D"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 221,
+                                "y": 1093
+                            },
+                            {
+                                "x": 265,
+                                "y": 1094
+                            },
+                            {
+                                "x": 265,
+                                "y": 1129
+                            },
+                            {
+                                "x": 220,
+                                "y": 1128
+                            }
+                        ]
+                    },
+                    "confidence": 0.694,
+                    "id": 11,
+                    "text": "W"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 520,
+                                "y": 1095
+                            },
+                            {
+                                "x": 546,
+                                "y": 1094
+                            },
+                            {
+                                "x": 546,
+                                "y": 1125
+                            },
+                            {
+                                "x": 520,
+                                "y": 1125
+                            }
+                        ]
+                    },
+                    "confidence": 0.9962,
+                    "id": 12,
+                    "text": "E"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 561,
+                                "y": 1097
+                            },
+                            {
+                                "x": 582,
+                                "y": 1097
+                            },
+                            {
+                                "x": 581,
+                                "y": 1123
+                            },
+                            {
+                                "x": 561,
+                                "y": 1123
+                            }
+                        ]
+                    },
+                    "confidence": 0.9475,
+                    "id": 13,
+                    "text": "F"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 590,
+                                "y": 1094
+                            },
+                            {
+                                "x": 638,
+                                "y": 1094
+                            },
+                            {
+                                "x": 638,
+                                "y": 1124
+                            },
+                            {
+                                "x": 590,
+                                "y": 1124
+                            }
+                        ]
+                    },
+                    "confidence": 0.9753,
+                    "id": 14,
+                    "text": "E:"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 549,
+                                "y": 1242
+                            },
+                            {
+                                "x": 619,
+                                "y": 1242
+                            },
+                            {
+                                "x": 619,
+                                "y": 1260
+                            },
+                            {
+                                "x": 549,
+                                "y": 1260
+                            }
+                        ]
+                    },
+                    "confidence": 0.9947,
+                    "id": 15,
+                    "text": "FRANCE"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 152,
+                                "y": 1264
+                            },
+                            {
+                                "x": 317,
+                                "y": 1262
+                            },
+                            {
+                                "x": 318,
+                                "y": 1294
+                            },
+                            {
+                                "x": 152,
+                                "y": 1296
+                            }
+                        ]
+                    },
+                    "confidence": 0.992,
+                    "id": 16,
+                    "text": "PERFIL"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 550,
+                                "y": 1259
+                            },
+                            {
+                                "x": 585,
+                                "y": 1257
+                            },
+                            {
+                                "x": 586,
+                                "y": 1280
+                            },
+                            {
+                                "x": 551,
+                                "y": 1282
+                            }
+                        ]
+                    },
+                    "confidence": 0.9978,
+                    "id": 17,
+                    "text": "24"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 851,
+                                "y": 1262
+                            },
+                            {
+                                "x": 966,
+                                "y": 1260
+                            },
+                            {
+                                "x": 967,
+                                "y": 1292
+                            },
+                            {
+                                "x": 852,
+                                "y": 1294
+                            }
+                        ]
+                    },
+                    "confidence": 0.9939,
+                    "id": 18,
+                    "text": "europa"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 973,
+                                "y": 1262
+                            },
+                            {
+                                "x": 1066,
+                                "y": 1260
+                            },
+                            {
+                                "x": 1066,
+                                "y": 1290
+                            },
+                            {
+                                "x": 973,
+                                "y": 1292
+                            }
+                        ]
+                    },
+                    "confidence": 0.9963,
+                    "id": 19,
+                    "text": "press"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 118,
+                                "y": 1433
+                            },
+                            {
+                                "x": 187,
+                                "y": 1431
+                            },
+                            {
+                                "x": 187,
+                                "y": 1459
+                            },
+                            {
+                                "x": 119,
+                                "y": 1460
+                            }
+                        ]
+                    },
+                    "confidence": 0.9893,
+                    "id": 20,
+                    "text": "RPP"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 200,
+                                "y": 1433
+                            },
+                            {
+                                "x": 312,
+                                "y": 1433
+                            },
+                            {
+                                "x": 312,
+                                "y": 1455
+                            },
+                            {
+                                "x": 200,
+                                "y": 1455
+                            }
+                        ]
+                    },
+                    "confidence": 0.9867,
+                    "id": 21,
+                    "text": "NOTICIAS"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 496,
+                                "y": 1428
+                            },
+                            {
+                                "x": 675,
+                                "y": 1428
+                            },
+                            {
+                                "x": 675,
+                                "y": 1465
+                            },
+                            {
+                                "x": 496,
+                                "y": 1465
+                            }
+                        ]
+                    },
+                    "confidence": 0,
+                    "id": 22,
+                    "text": "laRaz\ufffdn"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 862,
+                                "y": 1434
+                            },
+                            {
+                                "x": 906,
+                                "y": 1434
+                            },
+                            {
+                                "x": 906,
+                                "y": 1456
+                            },
+                            {
+                                "x": 862,
+                                "y": 1456
+                            }
+                        ]
+                    },
+                    "confidence": 0.998,
+                    "id": 23,
+                    "text": "EL"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 911,
+                                "y": 1435
+                            },
+                            {
+                                "x": 931,
+                                "y": 1434
+                            },
+                            {
+                                "x": 931,
+                                "y": 1454
+                            },
+                            {
+                                "x": 911,
+                                "y": 1455
+                            }
+                        ]
+                    },
+                    "confidence": 0.9583,
+                    "id": 24,
+                    "text": "54"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 933,
+                                "y": 1434
+                            },
+                            {
+                                "x": 1054,
+                                "y": 1434
+                            },
+                            {
+                                "x": 1054,
+                                "y": 1461
+                            },
+                            {
+                                "x": 933,
+                                "y": 1461
+                            }
+                        ]
+                    },
+                    "confidence": 0.9755,
+                    "id": 25,
+                    "text": "MUNDO"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 1595
+                            },
+                            {
+                                "x": 258,
+                                "y": 1595
+                            },
+                            {
+                                "x": 258,
+                                "y": 1634
+                            },
+                            {
+                                "x": 74,
+                                "y": 1634
+                            }
+                        ]
+                    },
+                    "confidence": 0.9975,
+                    "id": 26,
+                    "text": "Nacional"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 73,
+                                "y": 1766
+                            },
+                            {
+                                "x": 379,
+                                "y": 1764
+                            },
+                            {
+                                "x": 379,
+                                "y": 1811
+                            },
+                            {
+                                "x": 73,
+                                "y": 1813
+                            }
+                        ]
+                    },
+                    "confidence": 0.9886,
+                    "id": 27,
+                    "text": "Especializados"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 956,
+                                "y": 2138
+                            },
+                            {
+                                "x": 1014,
+                                "y": 2100
+                            },
+                            {
+                                "x": 1026,
+                                "y": 2119
+                            },
+                            {
+                                "x": 968,
+                                "y": 2156
+                            }
+                        ]
+                    },
+                    "confidence": 0.9684,
+                    "id": 28,
+                    "text": "TRAFICO"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1034,
+                                "y": 2103
+                            },
+                            {
+                                "x": 1084,
+                                "y": 2139
+                            },
+                            {
+                                "x": 1073,
+                                "y": 2155
+                            },
+                            {
+                                "x": 1022,
+                                "y": 2119
+                            }
+                        ]
+                    },
+                    "confidence": 0.9734,
+                    "id": 29,
+                    "text": "VALIDO"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 71,
+                                "y": 2112
+                            },
+                            {
+                                "x": 255,
+                                "y": 2112
+                            },
+                            {
+                                "x": 255,
+                                "y": 2145
+                            },
+                            {
+                                "x": 71,
+                                "y": 2145
+                            }
+                        ]
+                    },
+                    "confidence": 0.9925,
+                    "id": 30,
+                    "text": "Contenidos"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 259,
+                                "y": 2113
+                            },
+                            {
+                                "x": 329,
+                                "y": 2113
+                            },
+                            {
+                                "x": 329,
+                                "y": 2150
+                            },
+                            {
+                                "x": 259,
+                                "y": 2150
+                            }
+                        ]
+                    },
+                    "confidence": 0.9964,
+                    "id": 31,
+                    "text": "bajo"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 332,
+                                "y": 2113
+                            },
+                            {
+                                "x": 455,
+                                "y": 2111
+                            },
+                            {
+                                "x": 455,
+                                "y": 2145
+                            },
+                            {
+                                "x": 332,
+                                "y": 2146
+                            }
+                        ]
+                    },
+                    "confidence": 0.9859,
+                    "id": 32,
+                    "text": "licencia"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 460,
+                                "y": 2113
+                            },
+                            {
+                                "x": 598,
+                                "y": 2113
+                            },
+                            {
+                                "x": 598,
+                                "y": 2146
+                            },
+                            {
+                                "x": 460,
+                                "y": 2146
+                            }
+                        ]
+                    },
+                    "confidence": 0.9979,
+                    "id": 33,
+                    "text": "Creative"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 603,
+                                "y": 2113
+                            },
+                            {
+                                "x": 765,
+                                "y": 2113
+                            },
+                            {
+                                "x": 765,
+                                "y": 2145
+                            },
+                            {
+                                "x": 603,
+                                "y": 2145
+                            }
+                        ]
+                    },
+                    "confidence": 0.9875,
+                    "id": 34,
+                    "text": "Commons"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 960,
+                                "y": 2161
+                            },
+                            {
+                                "x": 963,
+                                "y": 2153
+                            },
+                            {
+                                "x": 971,
+                                "y": 2156
+                            },
+                            {
+                                "x": 968,
+                                "y": 2164
+                            }
+                        ]
+                    },
+                    "confidence": 0.7884,
+                    "id": 35,
+                    "text": "\u00b7"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1077,
+                                "y": 2154
+                            },
+                            {
+                                "x": 1080,
+                                "y": 2160
+                            },
+                            {
+                                "x": 1074,
+                                "y": 2163
+                            },
+                            {
+                                "x": 1071,
+                                "y": 2158
+                            }
+                        ]
+                    },
+                    "confidence": 0.4859,
+                    "id": 36,
+                    "text": "\u00b7"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 70,
+                                "y": 2158
+                            },
+                            {
+                                "x": 260,
+                                "y": 2159
+                            },
+                            {
+                                "x": 260,
+                                "y": 2196
+                            },
+                            {
+                                "x": 70,
+                                "y": 2195
+                            }
+                        ]
+                    },
+                    "confidence": 0.99,
+                    "id": 37,
+                    "text": "(CC-BY-NC)"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 264,
+                                "y": 2161
+                            },
+                            {
+                                "x": 348,
+                                "y": 2161
+                            },
+                            {
+                                "x": 348,
+                                "y": 2193
+                            },
+                            {
+                                "x": 264,
+                                "y": 2193
+                            }
+                        ]
+                    },
+                    "confidence": 0.9968,
+                    "id": 38,
+                    "text": "salvo"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 353,
+                                "y": 2161
+                            },
+                            {
+                                "x": 455,
+                                "y": 2161
+                            },
+                            {
+                                "x": 455,
+                                "y": 2193
+                            },
+                            {
+                                "x": 353,
+                                "y": 2193
+                            }
+                        ]
+                    },
+                    "confidence": 0.9943,
+                    "id": 39,
+                    "text": "donde"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 458,
+                                "y": 2161
+                            },
+                            {
+                                "x": 580,
+                                "y": 2161
+                            },
+                            {
+                                "x": 580,
+                                "y": 2197
+                            },
+                            {
+                                "x": 458,
+                                "y": 2197
+                            }
+                        ]
+                    },
+                    "confidence": 0.9951,
+                    "id": 40,
+                    "text": "indique"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 582,
+                                "y": 2162
+                            },
+                            {
+                                "x": 615,
+                                "y": 2162
+                            },
+                            {
+                                "x": 615,
+                                "y": 2193
+                            },
+                            {
+                                "x": 583,
+                                "y": 2193
+                            }
+                        ]
+                    },
+                    "confidence": 0.955,
+                    "id": 41,
+                    "text": "lo"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 619,
+                                "y": 2161
+                            },
+                            {
+                                "x": 776,
+                                "y": 2161
+                            },
+                            {
+                                "x": 776,
+                                "y": 2192
+                            },
+                            {
+                                "x": 619,
+                                "y": 2192
+                            }
+                        ]
+                    },
+                    "confidence": 0.9905,
+                    "id": 42,
+                    "text": "contrario."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 966,
+                                "y": 2161
+                            },
+                            {
+                                "x": 1002,
+                                "y": 2230
+                            },
+                            {
+                                "x": 978,
+                                "y": 2242
+                            },
+                            {
+                                "x": 942,
+                                "y": 2174
+                            }
+                        ]
+                    },
+                    "confidence": 0.9707,
+                    "id": 43,
+                    "text": "MEDIO"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 998,
+                                "y": 2235
+                            },
+                            {
+                                "x": 1080,
+                                "y": 2164
+                            },
+                            {
+                                "x": 1106,
+                                "y": 2194
+                            },
+                            {
+                                "x": 1024,
+                                "y": 2265
+                            }
+                        ]
+                    },
+                    "confidence": 0.975,
+                    "id": 44,
+                    "text": "AUDITADO"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1037,
+                                "y": 2170
+                            },
+                            {
+                                "x": 1048,
+                                "y": 2170
+                            },
+                            {
+                                "x": 1048,
+                                "y": 2203
+                            },
+                            {
+                                "x": 1037,
+                                "y": 2203
+                            }
+                        ]
+                    },
+                    "confidence": 0.6654,
+                    "id": 45,
+                    "text": "\u25cfchie"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 990,
+                                "y": 2178
+                            },
+                            {
+                                "x": 1039,
+                                "y": 2175
+                            },
+                            {
+                                "x": 1040,
+                                "y": 2205
+                            },
+                            {
+                                "x": 992,
+                                "y": 2208
+                            }
+                        ]
+                    },
+                    "confidence": 0.9519,
+                    "id": 46,
+                    "text": "iab"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 72,
+                                "y": 2211
+                            },
+                            {
+                                "x": 81,
+                                "y": 2211
+                            },
+                            {
+                                "x": 81,
+                                "y": 2241
+                            },
+                            {
+                                "x": 72,
+                                "y": 2241
+                            }
+                        ]
+                    },
+                    "confidence": 0.7349,
+                    "id": 47,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 89,
+                                "y": 2208
+                            },
+                            {
+                                "x": 207,
+                                "y": 2208
+                            },
+                            {
+                                "x": 207,
+                                "y": 2241
+                            },
+                            {
+                                "x": 89,
+                                "y": 2241
+                            }
+                        ]
+                    },
+                    "confidence": 0.9978,
+                    "id": 48,
+                    "text": "Basado"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 213,
+                                "y": 2215
+                            },
+                            {
+                                "x": 251,
+                                "y": 2215
+                            },
+                            {
+                                "x": 251,
+                                "y": 2240
+                            },
+                            {
+                                "x": 213,
+                                "y": 2240
+                            }
+                        ]
+                    },
+                    "confidence": 0.9984,
+                    "id": 49,
+                    "text": "en"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 256,
+                                "y": 2209
+                            },
+                            {
+                                "x": 383,
+                                "y": 2209
+                            },
+                            {
+                                "x": 383,
+                                "y": 2241
+                            },
+                            {
+                                "x": 256,
+                                "y": 2241
+                            }
+                        ]
+                    },
+                    "confidence": 0.994,
+                    "id": 50,
+                    "text": "Sistema"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 389,
+                                "y": 2209
+                            },
+                            {
+                                "x": 576,
+                                "y": 2209
+                            },
+                            {
+                                "x": 576,
+                                "y": 2241
+                            },
+                            {
+                                "x": 389,
+                                "y": 2241
+                            }
+                        ]
+                    },
+                    "confidence": 0.9908,
+                    "id": 51,
+                    "text": "WordPress."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 215,
+                                "y": 2384
+                            },
+                            {
+                                "x": 420,
+                                "y": 2384
+                            },
+                            {
+                                "x": 420,
+                                "y": 2417
+                            },
+                            {
+                                "x": 215,
+                                "y": 2417
+                            }
+                        ]
+                    },
+                    "confidence": 0.9925,
+                    "id": 52,
+                    "text": "Desarrollado"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 425,
+                                "y": 2392
+                            },
+                            {
+                                "x": 482,
+                                "y": 2391
+                            },
+                            {
+                                "x": 483,
+                                "y": 2421
+                            },
+                            {
+                                "x": 426,
+                                "y": 2422
+                            }
+                        ]
+                    },
+                    "confidence": 0.9866,
+                    "id": 53,
+                    "text": "por"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 488,
+                                "y": 2385
+                            },
+                            {
+                                "x": 541,
+                                "y": 2385
+                            },
+                            {
+                                "x": 541,
+                                "y": 2417
+                            },
+                            {
+                                "x": 488,
+                                "y": 2417
+                            }
+                        ]
+                    },
+                    "confidence": 0.9984,
+                    "id": 54,
+                    "text": "Bio"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 546,
+                                "y": 2385
+                            },
+                            {
+                                "x": 600,
+                                "y": 2385
+                            },
+                            {
+                                "x": 600,
+                                "y": 2417
+                            },
+                            {
+                                "x": 546,
+                                "y": 2417
+                            }
+                        ]
+                    },
+                    "confidence": 0.9985,
+                    "id": 55,
+                    "text": "Bio"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 606,
+                                "y": 2384
+                            },
+                            {
+                                "x": 867,
+                                "y": 2384
+                            },
+                            {
+                                "x": 867,
+                                "y": 2417
+                            },
+                            {
+                                "x": 606,
+                                "y": 2417
+                            }
+                        ]
+                    },
+                    "confidence": 0.9895,
+                    "id": 56,
+                    "text": "Comunicaciones"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 871,
+                                "y": 2385
+                            },
+                            {
+                                "x": 956,
+                                "y": 2385
+                            },
+                            {
+                                "x": 956,
+                                "y": 2417
+                            },
+                            {
+                                "x": 871,
+                                "y": 2417
+                            }
+                        ]
+                    },
+                    "confidence": 0.9966,
+                    "id": 57,
+                    "text": "2025"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 437,
+                                "y": 2434
+                            },
+                            {
+                                "x": 627,
+                                "y": 2432
+                            },
+                            {
+                                "x": 627,
+                                "y": 2470
+                            },
+                            {
+                                "x": 437,
+                                "y": 2471
+                            }
+                        ]
+                    },
+                    "confidence": 0,
+                    "id": 58,
+                    "text": "Concepci\ufffdn"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 630,
+                                "y": 2442
+                            },
+                            {
+                                "x": 644,
+                                "y": 2441
+                            },
+                            {
+                                "x": 644,
+                                "y": 2457
+                            },
+                            {
+                                "x": 630,
+                                "y": 2457
+                            }
+                        ]
+                    },
+                    "confidence": 0.5666,
+                    "id": 59,
+                    "text": "-"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 649,
+                                "y": 2433
+                            },
+                            {
+                                "x": 734,
+                                "y": 2433
+                            },
+                            {
+                                "x": 734,
+                                "y": 2465
+                            },
+                            {
+                                "x": 649,
+                                "y": 2465
+                            }
+                        ]
+                    },
+                    "confidence": 0.9967,
+                    "id": 60,
+                    "text": "Chile"
+                }
+            ]
+        }
+    ],
+    "stored": false,
+    "text": "bbcl \n+56 9 9200 7888 \nWhatsapp Comercial \nALIANZAS BBCL \nInternacional \nD W E F E: \nFRANCE \nPERFIL 24 europa press \nRPP NOTICIAS laRaz\ufffdn EL 54 MUNDO \nNacional \nEspecializados \nTRAFICO VALIDO \nContenidos bajo licencia Creative Commons \n\u00b7 \n\u00b7 \n(CC-BY-NC) salvo donde indique lo contrario. MEDIO \nAUDITADO \u25cfchie \niab \n Basado en Sistema WordPress. \nDesarrollado por Bio Bio Comunicaciones 2025 \nConcepci\ufffdn - Chile"
+}

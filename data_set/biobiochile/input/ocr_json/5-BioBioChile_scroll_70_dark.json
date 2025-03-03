@@ -1,0 +1,804 @@
+{
+    "apiVersion": "1.1",
+    "confidence": 0.8545,
+    "metadata": {
+        "pages": [
+            {
+                "height": 2532,
+                "page": 1,
+                "width": 1170
+            }
+        ]
+    },
+    "mimeType": "multipart/form-data",
+    "modelVersion": "ocr-2.2.1",
+    "numBilledPages": 1,
+    "pages": [
+        {
+            "confidence": 0.8545,
+            "height": 2532,
+            "id": 0,
+            "text": "bbcl \u30cf\u30c3 \n+ Cargar mas \nbbcl \nNacional Internacional \nEconomia Deportes \nTendencias Opini\ufffdn \nTV \nReportajes \nTarifas Politicas Tarifas Politicas \nRadio Bio Bio BioBioChile \nPolitica de privacidad Qui\ufffdnes somos \nPolitica \ufffdtica de \nBiobiochile",
+            "width": 1170,
+            "words": [
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 130,
+                                "y": 51
+                            },
+                            {
+                                "x": 254,
+                                "y": 51
+                            },
+                            {
+                                "x": 254,
+                                "y": 101
+                            },
+                            {
+                                "x": 130,
+                                "y": 101
+                            }
+                        ]
+                    },
+                    "confidence": 0.9869,
+                    "id": 0,
+                    "text": "bbcl"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 832,
+                                "y": 46
+                            },
+                            {
+                                "x": 902,
+                                "y": 47
+                            },
+                            {
+                                "x": 902,
+                                "y": 101
+                            },
+                            {
+                                "x": 831,
+                                "y": 100
+                            }
+                        ]
+                    },
+                    "confidence": 0.257,
+                    "id": 1,
+                    "text": "\u30cf\u30c3"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 678,
+                                "y": 242
+                            },
+                            {
+                                "x": 720,
+                                "y": 243
+                            },
+                            {
+                                "x": 718,
+                                "y": 286
+                            },
+                            {
+                                "x": 677,
+                                "y": 285
+                            }
+                        ]
+                    },
+                    "confidence": 0.7892,
+                    "id": 2,
+                    "text": "+"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 761,
+                                "y": 249
+                            },
+                            {
+                                "x": 897,
+                                "y": 249
+                            },
+                            {
+                                "x": 897,
+                                "y": 291
+                            },
+                            {
+                                "x": 761,
+                                "y": 291
+                            }
+                        ]
+                    },
+                    "confidence": 0.9955,
+                    "id": 3,
+                    "text": "Cargar"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 905,
+                                "y": 249
+                            },
+                            {
+                                "x": 984,
+                                "y": 248
+                            },
+                            {
+                                "x": 985,
+                                "y": 286
+                            },
+                            {
+                                "x": 905,
+                                "y": 288
+                            }
+                        ]
+                    },
+                    "confidence": 0.8439,
+                    "id": 4,
+                    "text": "mas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 176,
+                                "y": 580
+                            },
+                            {
+                                "x": 330,
+                                "y": 579
+                            },
+                            {
+                                "x": 331,
+                                "y": 641
+                            },
+                            {
+                                "x": 176,
+                                "y": 643
+                            }
+                        ]
+                    },
+                    "confidence": 0.9797,
+                    "id": 5,
+                    "text": "bbcl"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 806
+                            },
+                            {
+                                "x": 258,
+                                "y": 806
+                            },
+                            {
+                                "x": 258,
+                                "y": 845
+                            },
+                            {
+                                "x": 74,
+                                "y": 845
+                            }
+                        ]
+                    },
+                    "confidence": 0.9881,
+                    "id": 6,
+                    "text": "Nacional"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 585,
+                                "y": 806
+                            },
+                            {
+                                "x": 865,
+                                "y": 806
+                            },
+                            {
+                                "x": 865,
+                                "y": 845
+                            },
+                            {
+                                "x": 585,
+                                "y": 845
+                            }
+                        ]
+                    },
+                    "confidence": 0.9825,
+                    "id": 7,
+                    "text": "Internacional"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 1010
+                            },
+                            {
+                                "x": 279,
+                                "y": 1010
+                            },
+                            {
+                                "x": 279,
+                                "y": 1050
+                            },
+                            {
+                                "x": 74,
+                                "y": 1050
+                            }
+                        ]
+                    },
+                    "confidence": 0.9462,
+                    "id": 8,
+                    "text": "Economia"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 587,
+                                "y": 1009
+                            },
+                            {
+                                "x": 784,
+                                "y": 1009
+                            },
+                            {
+                                "x": 784,
+                                "y": 1056
+                            },
+                            {
+                                "x": 587,
+                                "y": 1056
+                            }
+                        ]
+                    },
+                    "confidence": 0.9885,
+                    "id": 9,
+                    "text": "Deportes"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 71,
+                                "y": 1211
+                            },
+                            {
+                                "x": 307,
+                                "y": 1212
+                            },
+                            {
+                                "x": 306,
+                                "y": 1254
+                            },
+                            {
+                                "x": 71,
+                                "y": 1253
+                            }
+                        ]
+                    },
+                    "confidence": 0.9921,
+                    "id": 10,
+                    "text": "Tendencias"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 585,
+                                "y": 1214
+                            },
+                            {
+                                "x": 755,
+                                "y": 1212
+                            },
+                            {
+                                "x": 756,
+                                "y": 1259
+                            },
+                            {
+                                "x": 586,
+                                "y": 1261
+                            }
+                        ]
+                    },
+                    "confidence": 0,
+                    "id": 11,
+                    "text": "Opini\ufffdn"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 665,
+                                "y": 1401
+                            },
+                            {
+                                "x": 692,
+                                "y": 1401
+                            },
+                            {
+                                "x": 692,
+                                "y": 1420
+                            },
+                            {
+                                "x": 665,
+                                "y": 1420
+                            }
+                        ]
+                    },
+                    "confidence": 0.9928,
+                    "id": 12,
+                    "text": "TV"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 1417
+                            },
+                            {
+                                "x": 303,
+                                "y": 1417
+                            },
+                            {
+                                "x": 303,
+                                "y": 1465
+                            },
+                            {
+                                "x": 74,
+                                "y": 1465
+                            }
+                        ]
+                    },
+                    "confidence": 0.9802,
+                    "id": 13,
+                    "text": "Reportajes"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 70,
+                                "y": 1639
+                            },
+                            {
+                                "x": 212,
+                                "y": 1639
+                            },
+                            {
+                                "x": 212,
+                                "y": 1680
+                            },
+                            {
+                                "x": 70,
+                                "y": 1680
+                            }
+                        ]
+                    },
+                    "confidence": 0.9946,
+                    "id": 14,
+                    "text": "Tarifas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 223,
+                                "y": 1640
+                            },
+                            {
+                                "x": 399,
+                                "y": 1640
+                            },
+                            {
+                                "x": 399,
+                                "y": 1679
+                            },
+                            {
+                                "x": 223,
+                                "y": 1679
+                            }
+                        ]
+                    },
+                    "confidence": 0.9935,
+                    "id": 15,
+                    "text": "Politicas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 584,
+                                "y": 1639
+                            },
+                            {
+                                "x": 725,
+                                "y": 1639
+                            },
+                            {
+                                "x": 725,
+                                "y": 1679
+                            },
+                            {
+                                "x": 584,
+                                "y": 1679
+                            }
+                        ]
+                    },
+                    "confidence": 0.9942,
+                    "id": 16,
+                    "text": "Tarifas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 736,
+                                "y": 1640
+                            },
+                            {
+                                "x": 912,
+                                "y": 1640
+                            },
+                            {
+                                "x": 912,
+                                "y": 1679
+                            },
+                            {
+                                "x": 736,
+                                "y": 1679
+                            }
+                        ]
+                    },
+                    "confidence": 0.9935,
+                    "id": 17,
+                    "text": "Politicas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 75,
+                                "y": 1712
+                            },
+                            {
+                                "x": 193,
+                                "y": 1712
+                            },
+                            {
+                                "x": 193,
+                                "y": 1751
+                            },
+                            {
+                                "x": 75,
+                                "y": 1751
+                            }
+                        ]
+                    },
+                    "confidence": 0.9972,
+                    "id": 18,
+                    "text": "Radio"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 204,
+                                "y": 1713
+                            },
+                            {
+                                "x": 272,
+                                "y": 1713
+                            },
+                            {
+                                "x": 272,
+                                "y": 1750
+                            },
+                            {
+                                "x": 204,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9553,
+                    "id": 19,
+                    "text": "Bio"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 283,
+                                "y": 1713
+                            },
+                            {
+                                "x": 352,
+                                "y": 1713
+                            },
+                            {
+                                "x": 352,
+                                "y": 1750
+                            },
+                            {
+                                "x": 283,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9482,
+                    "id": 20,
+                    "text": "Bio"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 588,
+                                "y": 1711
+                            },
+                            {
+                                "x": 835,
+                                "y": 1712
+                            },
+                            {
+                                "x": 835,
+                                "y": 1752
+                            },
+                            {
+                                "x": 587,
+                                "y": 1751
+                            }
+                        ]
+                    },
+                    "confidence": 0.9974,
+                    "id": 21,
+                    "text": "BioBioChile"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 1915
+                            },
+                            {
+                                "x": 228,
+                                "y": 1915
+                            },
+                            {
+                                "x": 228,
+                                "y": 1956
+                            },
+                            {
+                                "x": 74,
+                                "y": 1956
+                            }
+                        ]
+                    },
+                    "confidence": 0.9576,
+                    "id": 22,
+                    "text": "Politica"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 238,
+                                "y": 1917
+                            },
+                            {
+                                "x": 291,
+                                "y": 1917
+                            },
+                            {
+                                "x": 291,
+                                "y": 1956
+                            },
+                            {
+                                "x": 238,
+                                "y": 1956
+                            }
+                        ]
+                    },
+                    "confidence": 0.998,
+                    "id": 23,
+                    "text": "de"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 298,
+                                "y": 1917
+                            },
+                            {
+                                "x": 519,
+                                "y": 1912
+                            },
+                            {
+                                "x": 520,
+                                "y": 1958
+                            },
+                            {
+                                "x": 299,
+                                "y": 1964
+                            }
+                        ]
+                    },
+                    "confidence": 0.9894,
+                    "id": 24,
+                    "text": "privacidad"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 586,
+                                "y": 1917
+                            },
+                            {
+                                "x": 761,
+                                "y": 1911
+                            },
+                            {
+                                "x": 763,
+                                "y": 1957
+                            },
+                            {
+                                "x": 587,
+                                "y": 1963
+                            }
+                        ]
+                    },
+                    "confidence": 0,
+                    "id": 25,
+                    "text": "Qui\ufffdnes"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 768,
+                                "y": 1919
+                            },
+                            {
+                                "x": 904,
+                                "y": 1919
+                            },
+                            {
+                                "x": 904,
+                                "y": 1957
+                            },
+                            {
+                                "x": 768,
+                                "y": 1957
+                            }
+                        ]
+                    },
+                    "confidence": 0.9938,
+                    "id": 26,
+                    "text": "somos"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 74,
+                                "y": 2119
+                            },
+                            {
+                                "x": 228,
+                                "y": 2119
+                            },
+                            {
+                                "x": 228,
+                                "y": 2160
+                            },
+                            {
+                                "x": 74,
+                                "y": 2160
+                            }
+                        ]
+                    },
+                    "confidence": 0.9576,
+                    "id": 27,
+                    "text": "Politica"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 237,
+                                "y": 2120
+                            },
+                            {
+                                "x": 340,
+                                "y": 2120
+                            },
+                            {
+                                "x": 340,
+                                "y": 2160
+                            },
+                            {
+                                "x": 237,
+                                "y": 2160
+                            }
+                        ]
+                    },
+                    "confidence": 0,
+                    "id": 28,
+                    "text": "\ufffdtica"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 350,
+                                "y": 2120
+                            },
+                            {
+                                "x": 401,
+                                "y": 2120
+                            },
+                            {
+                                "x": 402,
+                                "y": 2159
+                            },
+                            {
+                                "x": 350,
+                                "y": 2159
+                            }
+                        ]
+                    },
+                    "confidence": 0.9971,
+                    "id": 29,
+                    "text": "de"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 73,
+                                "y": 2190
+                            },
+                            {
+                                "x": 308,
+                                "y": 2192
+                            },
+                            {
+                                "x": 307,
+                                "y": 2232
+                            },
+                            {
+                                "x": 73,
+                                "y": 2231
+                            }
+                        ]
+                    },
+                    "confidence": 0.9979,
+                    "id": 30,
+                    "text": "Biobiochile"
+                }
+            ]
+        }
+    ],
+    "stored": false,
+    "text": "bbcl \u30cf\u30c3 \n+ Cargar mas \nbbcl \nNacional Internacional \nEconomia Deportes \nTendencias Opini\ufffdn \nTV \nReportajes \nTarifas Politicas Tarifas Politicas \nRadio Bio Bio BioBioChile \nPolitica de privacidad Qui\ufffdnes somos \nPolitica \ufffdtica de \nBiobiochile"
+}
