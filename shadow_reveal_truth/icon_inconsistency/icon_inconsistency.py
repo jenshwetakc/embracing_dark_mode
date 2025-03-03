@@ -1,5 +1,5 @@
 '''
-icon inconsistency: chroma eye detect the invisible icon in dark mode
+icon inconsistency: chromaeye detect the invisible icon in dark mode
 '''
 
 
