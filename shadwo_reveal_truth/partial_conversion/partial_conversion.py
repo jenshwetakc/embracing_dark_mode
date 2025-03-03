@@ -1,11 +1,8 @@
 
 '''
-partial conversion: check the application that fully support the dark mode throughout the application
+partial conversion:  chromaeye ensure whether the application fully support the dark mode throughout the application.
 
 '''
-
-
-
 
 import os
 import json
